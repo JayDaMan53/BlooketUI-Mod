@@ -2,7 +2,7 @@
 A mod for BlooketUI that patches and updates some things
 
 How To use:
-1. go to the script and coppy it
+1. go to [BlookUI.js](https://github.com/JayDaMan53/BlooketUI-Mod/blob/main/BlookUI.js) and coppy it
 2. go to blooket and do ctrl + shift + i
 3. paste the script and press enter
 
