@@ -8,6 +8,6 @@ How To use:
 
 ## WARNING: I AM NOT RESPONABLE FOR BANS
  
- The 2 people that made the orgnail code is:
+ The 2 people that made the original code is:
  @rxzyx
  @Blooketware
