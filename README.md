@@ -6,4 +6,4 @@ How To use:
 2. go to blooket and do ctrl + shift + i
 3. paste the script and press enter
 
-# WARNING I AM NOT RESPONABLE FOR BANS
+# WARNING: I AM NOT RESPONABLE FOR BANS
