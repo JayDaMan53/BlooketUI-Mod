@@ -14,6 +14,5 @@ How To use:
 
 How to use bookmarklet:
 1. go to [bookmarklet.js](https://github.com/JayDaMan53/BlooketUI-Mod/blob/main/bookmarklet.js) and copy it
-2. make a bookmark and in URL put javascript:
-3. paste the code and press done
+2. make a bookmark and in the URL paste the code and press done
 4. go to blooket and click the bookmark
