@@ -2,10 +2,9 @@
 A mod for BlooketUI that patches and updates some things
 
 ### WARNING: I AM NOT RESPONABLE FOR BANS
+ to not risk bans use the [og scripts](https://github.com/rxzyx/Blooket-Hacks)
  
- The 2 people that made the original code is:
- @rxzyx
- @Blooketware
+ The 2 people that made the original code is [@rxzyx](https://github.com/rxzyx) and [@Blooketware](https://github.com/Blooketware)
 
 How To use:
 1. go to [BlookUI.js](https://github.com/JayDaMan53/BlooketUI-Mod/blob/main/BlookUI.js) and copy it
