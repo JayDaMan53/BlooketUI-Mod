@@ -9,12 +9,14 @@ A mod for BlooketUI that patches and updates some things
 If they want me to take this down I will this was just a fun project that I did.
 
 How To use:
-1. go to [BlookUI.js](https://github.com/JayDaMan53/BlooketUI-Mod/blob/main/BlookUI.js) and copy it
+1. go to [BlookUI 1.0.1.js](https://github.com/JayDaMan53/BlooketUI-Mod/blob/main/BlookUI%201.0.1.js) and copy it
 2. go to blooket and do ctrl + shift + i
 3. paste the script and press enter
 
-How to use bookmarklet:
-#### WILL NOT WORK
-1. go to [bookmarklet.js](https://github.com/JayDaMan53/BlooketUI-Mod/blob/main/bookmarklet.js) and copy it
-2. make a bookmark and in the URL paste the code and press done
-4. go to blooket and click the bookmark
+### Version 1.0.1 added:
+Version shower
+more display stuff
+
+will come:
+monster brawl hacks
+other things ;)
