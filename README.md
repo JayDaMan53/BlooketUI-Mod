@@ -13,10 +13,5 @@ How To use:
 2. go to blooket and do ctrl + shift + i
 3. paste the script and press enter
 
-### Version 1.0.1 added:
-Version shower
-more display stuff
-
-will come:
-monster brawl hacks
-other things ;)
+### Version 1.0.1 added: Version shower more display stuff
+### will come: monster brawl hacks and other things ;)
